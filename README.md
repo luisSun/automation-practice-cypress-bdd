@@ -146,7 +146,7 @@ npx cypress run
 
 ## 📸 Exemplo de Execução
 
-![Resultado](./images/result.jpg)
+![Resultado](./images/result.png)
 
 ---
 
