@@ -89,8 +89,7 @@ export const data = {
 
 ## 🧱 Page Objects
 
-Os arquivos em `support/pages` encapsulam as ações realizadas nas páginas (clicar em botões, preencher campos, validar mensagens).
-Isso torna os testes **mais organizados, reutilizáveis e fáceis de manter**.
+Os arquivos em `support/pages` encapsulam as ações realizadas nas páginas, tornando os testes mais organizados e fáceis de manter.
 
 ---
 
@@ -147,7 +146,7 @@ npx cypress run
 
 ## 📸 Exemplo de Execução
 
-![Resultado](./images/teste_final.jpg)
+![Resultado](./images/result.jpg)
 
 ---
 
