@@ -1,0 +1,21 @@
+{
+  "name": "04---bdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^15.5.0",
+    "cypress-esbuild-preprocessor": "^1.0.2"
+  },
+  "devDependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^23.2.1",
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.2.6",
+    "@faker-js/faker": "^10.1.0"
+  }
+}
